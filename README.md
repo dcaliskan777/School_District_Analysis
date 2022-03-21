@@ -68,7 +68,7 @@ Math averages by grade before and after replacement:
 ![](./resources/Math_Mean_By_Grade.png)
 
 Reading averages by grade before and after replacement:
-![](./resources/Reading_by_Grade.png)
+![](./resources/Reading_by _Grade.png)
 
 There is no change in any result of any grade at any school except 9th grade at THS, as we expect.
 
