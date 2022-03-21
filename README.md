@@ -51,9 +51,15 @@ The summary of schools' resullst beofre replacement:
 The summary of schools' resullst after replacement:
 ![](./resources/School_Summary_2.png)
 
+The average scores and passsing percentages of all schools except THS are the same, as we expect.
+
 ### The affect of  replacing the ninth graders’ math and reading scores at the Thomas High School’s performance relative to the other schools
 
+In the following figure, the results of THS before and after replacement are demonstrated.
+
 ![](./resources/ths.png)
+
+According to this table, average math score, passing math percentage and overall passing percentage decrease after replacement. Altough, average raeding score inresed a little, the passing reading percent ,interestingly, decreased as well after replacement.
 
 ### The affect of  replacing the ninth graders’ math and reading scores to general analysis
 #### In terms of Math and reading scores by grade
