@@ -59,15 +59,18 @@ In the following figure, the results of THS before and after replacement are dem
 
 ![](./resources/ths.png)
 
-According to this table, average math score, passing math percentage and overall passing percentage decrease after replacement. Altough, average raeding score inresed a little, the passing reading percent ,interestingly, decreased as well after replacement.
+According to this table, average math score, passing math percentage and overall passing percentage decrease after replacement. Altough, average raeding score increased a little, the passing reading percent ,interestingly, decreased as well after replacement.
 
 ### The affect of  replacing the ninth graders’ math and reading scores to general analysis
 ### In terms of Math and reading scores by grade
 
+Math averages by grade before and after replacement:
 ![](./resources/Math_Mean_By_Grade.png)
 
+Reading averages by grade before and after replacement:
 ![](./resources/Reading_by Grade.png)
 
+There is no change in any result of any grade at any school except 9th grade at THS, as we expect.
 
 ### In terms of scores by spending
 
