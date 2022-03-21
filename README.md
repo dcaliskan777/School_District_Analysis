@@ -74,14 +74,26 @@ There is no change in any result of any grade at any school except 9th grade at 
 
 ### In terms of scores by spending
 
+In the following figure, the results by spending ranges before and after replacement are demonstrated.
+
 ![](./resources/spending.png)
+
+There is a little change in only one range which is $631-$645, this is because THS takes place in this range. In all other ranges all resulsts are the same before and after replacement.
 
 ### In terms of scores by size
 
+In the following figure, the results by size before and after replacement are demonstrated.
+
 ![](./resources/size.png)
 
+There is a little change in only one size which is medium (1000-1999), in fact THS has 1635 students takes place in this size. In all other sizes all resulsts are the same before and after replacement.
+
 ### In terms of scores by school type
+
+Since THS is a charter school there is small change in the result of charter schools. In the district schools there is no change before and after replacement. This can be observed in the following table:
 
 ![](./resources/type.png)
 
 ## Summary
+
+
