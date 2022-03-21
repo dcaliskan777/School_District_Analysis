@@ -68,7 +68,7 @@ Math averages by grade before and after replacement:
 ![](./resources/Math_Mean_By_Grade.png)
 
 Reading averages by grade before and after replacement:
-![](./resources/Reading_by Grade.png)
+![](./resources/Reading_by_Grade.png)
 
 There is no change in any result of any grade at any school except 9th grade at THS, as we expect.
 
@@ -96,4 +96,9 @@ Since THS is a charter school there is small change in the result of charter sch
 
 ## Summary
 
+In summary we observe four main changes in the results after replacement, they are
 
+1. The average math and reading scores, the passing percentages of all schools has changed in the district.
+2. The average math and reading scores, the passing percentages has changed in the schools which are in the spending range $631-$645.
+3. The average math and reading scores, the passing percentages has changed in the medium schools.
+4. The average math and reading scores, the passing percentages has changed in the charter schools.
